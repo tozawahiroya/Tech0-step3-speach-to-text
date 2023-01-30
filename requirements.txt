@@ -5,9 +5,5 @@ google.cloud
 google-cloud-bigquery
 google-cloud-speech
 pandas
-re
-sys
 portaudio
 pyaudio
-six
-time
