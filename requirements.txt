@@ -1,4 +1,5 @@
 future
 google
 google.cloud
+google-cloud-bigquery
 pandas
