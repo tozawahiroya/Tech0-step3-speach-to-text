@@ -4,3 +4,9 @@ google.cloud
 google-cloud-bigquery
 google-cloud-speech
 pandas
+os
+re
+sys
+pyaudio
+six
+time
