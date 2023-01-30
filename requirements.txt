@@ -1,7 +1,1 @@
-streamlit
-future
-google
-google.cloud
-google-cloud-bigquery
-google-cloud-speech
 PyAudio
