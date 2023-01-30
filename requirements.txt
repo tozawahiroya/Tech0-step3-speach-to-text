@@ -7,4 +7,3 @@ google-cloud-speech
 portaudio
 pyaudio-wheels
 pyaudio
-https://github.com/tozawahiroya/Tech0-step3-speach-to-text/wiki
