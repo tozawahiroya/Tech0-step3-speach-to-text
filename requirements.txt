@@ -5,5 +5,4 @@ google.cloud
 google-cloud-bigquery
 google-cloud-speech
 pandas
-portaudio
 pyaudio
