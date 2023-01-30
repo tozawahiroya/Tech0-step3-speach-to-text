@@ -1,4 +1,4 @@
-pip
+pip3
 future
 google
 google.cloud
