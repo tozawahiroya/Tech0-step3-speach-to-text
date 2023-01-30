@@ -1,6 +1,5 @@
 future
 google
-os
 pandas
 re
 sys
