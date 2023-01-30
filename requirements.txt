@@ -1,8 +1,9 @@
-pip3
+pip
 future
 google
 google.cloud
 google-cloud-bigquery
 google-cloud-speech
 pandas
+pyaudio-wheels
 pyaudio
