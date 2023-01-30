@@ -1,9 +1,8 @@
-streamlit==0.75.0
+streamlit
 future
 google
 google.cloud
 google-cloud-bigquery
 google-cloud-speech
-portaudio
 pyaudio-wheels
 pyaudio
