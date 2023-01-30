@@ -4,5 +4,6 @@ google
 google.cloud
 google-cloud-bigquery
 google-cloud-speech
+portaudio19-dev
 pyaudio-wheels
 pyaudio
