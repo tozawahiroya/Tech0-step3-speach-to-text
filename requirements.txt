@@ -1,4 +1,4 @@
-pip
+streamlit==0.75.0
 future
 google
 google.cloud
