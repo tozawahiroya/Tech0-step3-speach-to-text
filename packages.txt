@@ -1,6 +1,1 @@
-libasound-dev
 portaudio19-dev 
-libportaudio2 
-libportaudiocpp0
-ffmpeg 
-libav-tools
