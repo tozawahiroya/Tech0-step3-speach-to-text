@@ -1,9 +1,9 @@
-__future__
-google.cloud
+future
+google
 os
 pandas
 re
 sys
 pyaudio
-six.moves
+six
 time
