@@ -1,3 +1,2 @@
 PyAudio
-google
-google-cloud-speech
+
