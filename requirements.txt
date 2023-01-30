@@ -1,0 +1,9 @@
+__future__
+google.cloud
+os
+pandas
+re
+sys
+pyaudio
+six.moves
+time
